@@ -1,0 +1,12 @@
+* {
+    background-color: #1abdeb;
+}
+.titulo {
+    display: flex;
+    justify-content: center;
+
+}
+
+.links {
+    display: block;
+}
